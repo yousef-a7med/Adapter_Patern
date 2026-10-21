@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Adapter/Adapter.csproj" />
+  <Project Path="payment/payment.csproj" />
 </Solution>
